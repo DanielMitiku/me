@@ -13,7 +13,7 @@
 
 ## Live Link
 
-🔥 [Live Link](https://danielmitiku.github.io/)
+🔥 [Live Link](https://danielmitiku.github.io/me)
 
 ## Screenshot
 
