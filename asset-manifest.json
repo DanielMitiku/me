@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.d3611f42.chunk.css",
+    "main.js": "/me/static/js/main.72eb0837.chunk.js",
+    "main.js.map": "/me/static/js/main.72eb0837.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.880a4756.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.880a4756.js.map",
+    "static/css/2.74189dbb.chunk.css": "/me/static/css/2.74189dbb.chunk.css",
+    "static/js/2.1691770d.chunk.js": "/me/static/js/2.1691770d.chunk.js",
+    "static/js/2.1691770d.chunk.js.map": "/me/static/js/2.1691770d.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.aae252e2e1d5f222cc3c918dc90b196d.js": "/me/precache-manifest.aae252e2e1d5f222cc3c918dc90b196d.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/me/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.d3611f42.chunk.css.map": "/me/static/css/main.d3611f42.chunk.css.map",
+    "static/js/2.1691770d.chunk.js.LICENSE.txt": "/me/static/js/2.1691770d.chunk.js.LICENSE.txt",
+    "static/media/battleship.png": "/me/static/media/battleship.f0c4676d.png",
+    "static/media/book_a_session.png": "/me/static/media/book_a_session.f322c56e.png",
+    "static/media/book_a_session_backend.png": "/me/static/media/book_a_session_backend.eab81817.png",
+    "static/media/rails_book.png": "/me/static/media/rails_book.518abbb3.png",
+    "static/media/weather_app.png": "/me/static/media/weather_app.00f06e08.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.880a4756.js",
+    "static/css/2.74189dbb.chunk.css",
+    "static/js/2.1691770d.chunk.js",
+    "static/css/main.d3611f42.chunk.css",
+    "static/js/main.72eb0837.chunk.js"
+  ]
+}
