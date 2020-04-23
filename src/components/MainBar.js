@@ -1,28 +1,15 @@
 import React from 'react';
+import ProjectList from './ProjectList';
+import Contact from './Contact';
+import About from './About';
+
 
 function MainBar() {
   return (
     <div>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1>
-      <h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1>
-
-      <h1>MainBar</h1>
-
+      <ProjectList />
+      <About />
+      <Contact />
     </div>
   );
 }
