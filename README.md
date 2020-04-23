@@ -17,7 +17,7 @@
 
 ## Screenshot
 
-<img src="./Screenshot.png">
+<img src="./Screenshot_me.png">
 
 ## Get Started
 
