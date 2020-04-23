@@ -18,6 +18,10 @@ code {
   margin: 0;
 }
 
+.mainbar {
+  color: black;
+}
+
 .sideDiv {
   position: sticky;
   top: 25%;
@@ -34,4 +38,83 @@ code {
 
 .fa-linkedin, .fa-twitter{
   color: rgb(36, 98, 255);
+}
+
+.project-card {
+  background-color: #F0FFF7;
+}
+
+.card {
+  border: none;
+}
+
+.project-image-texts {
+  opacity: 0;
+}
+
+.project-image-div {
+  overflow: hidden;
+}
+
+.project-image-div .project-image {
+  transition: all 1.0s;
+}
+
+.project-image-div:hover .project-image-text {
+  color: rebeccapurple;
+  transition: all 1.0s;
+}
+
+.project-image-div:hover .project-image {
+  opacity: 0.2;
+  transform: scale(1.5);
+  -webkit-filter: brightness(50%);
+}
+
+a {
+  color: rgb(14, 14, 139);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+@media(min-width:768px){
+  .source-code {
+    text-align: left;
+  }
+  .live-link {
+    text-align: right;
+  }
+}
+
+@media(max-width:576px){
+  .project-image-text {
+    font-size: 0.8rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  h2 {
+    font-size: 1.6rem;
+  }
+  h3 {
+    font-size: 1.5rem;
+  }
+  .btn {
+    font-size: 0.7rem;
+    padding: 0.1rem;
+  }
+}
+
+@media(min-width:576px){
+  .project-image-text {
+    font-size: 1rem;
+  }
+}
+
+@media(min-width:768px){
+  .project-image-text {
+    font-size: 1.25rem;
+  }
 }
