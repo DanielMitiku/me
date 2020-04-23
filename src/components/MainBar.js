@@ -3,7 +3,26 @@ import React from 'react';
 function MainBar() {
   return (
     <div>
-      MainBar
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+      <h1>MainBar</h1>
+      <h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1><h1>MainBar</h1>
+
+      <h1>MainBar</h1>
+
     </div>
   );
 }
