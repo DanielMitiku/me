@@ -3,7 +3,7 @@ import React from 'react';
 function SideBar() {
   return (
     <>
-      <div className="sideDiv my-2">
+      <div className="sideDiv my-5">
         <h3>Hi, I am </h3>
         <h1>Daniel Wesego</h1>
         <div className="text-center">
